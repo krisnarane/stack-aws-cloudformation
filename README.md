@@ -51,5 +51,5 @@ Começar com uma stack simples e evoluir para uma que combina múltiplos recurso
 
 **Julia Krisnarane**
 
-- **LinkedIn:** [linkedin.com/in/SEU-PERFIL](https://www.linkedin.com/in/julia-krisnarane-moraes-410417345)
-- **GitHub:** [github.com/SEU-USUARIO](https://github.com/krisnarane)
+- **LinkedIn:** [linkedin.com/in/julia-krisnarane-moraes](https://www.linkedin.com/in/julia-krisnarane-moraes-410417345)
+- **GitHub:** [github.com/krisnarane](https://github.com/krisnarane)
